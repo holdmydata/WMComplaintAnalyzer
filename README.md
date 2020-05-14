@@ -2,6 +2,8 @@
 
 Placeholder here so that I can build out a NLP system to automate the customer complaints generated monthly in Walmart's system. 
 
+![Example of Word Cloud](ComplaintNLPExample.JPG)
+
 ## Installation
 
 Coming soon!!
